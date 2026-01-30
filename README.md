@@ -29,27 +29,18 @@ This repository is created for beginners who want to:
 └── 📜 README.md
 
 
-##🧠 Topics Covered
+## 🧠 Topics Covered
 
-Java basics (variables, conditionals, loops)
-
-Pattern printing
-
-Functions and methods
-
-Arrays
-
-1D Arrays
-
-2D Arrays (searching, row sum, transpose, etc.)
-
-String manipulation
-
-Bit manipulation techniques
-
-Sorting algorithms
-
-Core problem-solving concepts in Java
+1. Java basics (variables, conditionals, loops)
+2. Pattern printing
+3. Functions and methods
+4. Arrays
+5. 1D Arrays
+6. 2D Arrays (searching, row sum, transpose, etc.)
+7. String manipulation
+8. Bit manipulation techniques
+9. Sorting algorithms
+10. Core problem-solving concepts in Java
 
 ## 🚀 Getting Started
 
