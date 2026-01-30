@@ -11,27 +11,45 @@ This repository is created for beginners who want to:
 - Understand 1D and 2D array operations
 - Prepare for data structures and algorithms interviews
 
-## 📁 Repository Structure
 📦 Java-dsa<br>
-├── 📂 Functions&Methods <br>
-│ └── Java programs for practicing functions and methods<br>
-├── 📂 Loops-variables-Simple<br>
-│ └── Programs covering loops, variables, and basic logic<br>
-├── 📂 Patterns<br>
-│ └── Pattern printing programs<br>
-├── 📂 Array<br>
-│ └── Array programs <br>
-└── 📜 README.md<br>
+├── 📂 01-Loops-variables-Simple<br>
+│   └── Basic Java programs covering loops, variables, and conditionals<br>
+├── 📂 02-Patterns<br>
+│   └── Pattern printing problems<br>
+├── 📂 03-Functions & Methods<br>
+│   └── Programs demonstrating functions and methods<br>
+├── 📂 04-Arrays<br>
+│   └── 1D and 2D array programs<br>
+├── 📂 05-Strings<br>
+│   └── String manipulation and related problems<br>
+├── 📂 06-Bit Manipulation<br>
+│   └── Bitwise operation problems<br>
+├── 📂 07-Sorting<br>
+│   └── Sorting algorithms and examples<br>
+└── 📜 README.md
 
 
-## 🧠 Topics Covered
+##🧠 Topics Covered
 
-- Java basics (variables, conditionals, loops)
-- Functions and methods
-- 1D Arrays
-- 2D Arrays (searching, row sum, transpose)
-- Pattern printing problems
-- Basic problem-solving techniques
+Java basics (variables, conditionals, loops)
+
+Pattern printing
+
+Functions and methods
+
+Arrays
+
+1D Arrays
+
+2D Arrays (searching, row sum, transpose, etc.)
+
+String manipulation
+
+Bit manipulation techniques
+
+Sorting algorithms
+
+Core problem-solving concepts in Java
 
 ## 🚀 Getting Started
 
